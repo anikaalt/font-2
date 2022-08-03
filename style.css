@@ -1,0 +1,35 @@
+.h3 
+{
+    font-size: 35px;
+    box-shadow: 10px 10px 30px rgb(46, 60, 105);
+    background-color: rgb(153, 148, 217);
+    color: aliceblue;
+    
+
+}
+.note1
+{
+    font-size: 25px;
+    color: black;
+}
+.footer
+{
+    color: black;
+    bottom: 0;
+    text-align: center;
+    position: fixed;
+    margin-left: 900px;
+    line-height: 5;
+    font-size: 25px;
+}
+body
+{
+    background-image: url("https://as1.ftcdn.net/v2/jpg/02/51/95/08/1000_F_251950890_fRaiLvQjlu4cTu3u7bgSqu4aUI09fFnB.jpg");
+}
+canvas
+{
+border: 10px dashed rgb(53, 46, 105);
+border-radius: 10px;
+box-shadow: 10px 10px 20px rgb(50, 46, 105);
+
+}
